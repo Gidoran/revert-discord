@@ -419,8 +419,8 @@ main[class^="chatContent"] form[class*="form"] {
 }
 
 main[class^="chatContent"] form[class*="form"] div[class*="channelTextArea"] {
-  margin-top: 20px;
-  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 main[class^="chatContent"] div[class*="jumpToPresentBar"] {
